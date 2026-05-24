@@ -1,6 +1,6 @@
 # Alexey Mengden - Pricing & Risk Tooling / Quant Risk
 
-Python/C++ | Fixed income | Credit & market risk | FRM, CQF
+Python/C++ · Fixed income · Credit & market risk · FRM, CQF
 
 I build testable tools for pricing, risk and model validation.
 
@@ -18,5 +18,4 @@ I build testable tools for pricing, risk and model validation.
 - [`validation-series-quant`](https://github.com/mengden-quant/validation-series-quant) - code and notes supporting my LinkedIn posts.
 
 ## Links
-
-Links: [LinkedIn](https://www.linkedin.com/in/alexey-mengden)
+- [LinkedIn](https://www.linkedin.com/in/alexey-mengden)
