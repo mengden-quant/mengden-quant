@@ -11,11 +11,11 @@ I build testable tools for pricing, risk and model validation.
 - Credit risk validation: discriminatory power, calibration, stability and representativeness.
 
 ## Selected work
-- `cpp-pricing-primitives` - C++ pricing/risk primitives and numerical checks.
-- `xva-exposure-engine` - exposure simulation, survival curves and CVA-style calculations.
-- `desk-quant-toolkit` - Monte Carlo pricing, Greeks and benchmarked examples.
-- `model-validation-metrics` - credit risk validation metrics and tests.
-- `validation-series-quant` - code and notes supporting my LinkedIn posts.
+- [`cpp-pricing-primitives`](https://github.com/mengden-quant/cpp-pricing-primitives) - C++ pricing/risk primitives and numerical checks.
+- [`xva-exposure-engine`](https://github.com/mengden-quant/xva-exposure-engine) - exposure simulation, survival curves and CVA-style calculations.
+- [`desk-quant-toolkit`](https://github.com/mengden-quant/desk-quant-toolkit) - Monte Carlo pricing, Greeks and benchmarked examples.
+- [`model-validation-metrics`](https://github.com/mengden-quant/model-validation-metrics) - credit risk validation metrics and tests.
+- [`validation-series-quant`](https://github.com/mengden-quant/validation-series-quant) - code and notes supporting my LinkedIn posts.
 
 ## Links
 
