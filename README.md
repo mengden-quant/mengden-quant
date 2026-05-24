@@ -1,22 +1,22 @@
-# Alexey Mengden — Transitioning to FO Quant / Desk Strat (Sell-Side)
+# Alexey Mengden - Pricing & Risk Tooling / Quant Risk
 
-Python/C++ · Derivatives (SDE/Monte Carlo)
+Python/C++ | Fixed income | Credit & market risk | FRM, CQF
 
-Current: Model Risk / IRB (credit & regulatory models).
-Target: Front-Office Quant / Desk Strat — pricing, Greeks, calibration, hedging intuition, desk tooling.
+I build testable tools for pricing, risk and model validation.
 
-## Current focus
-- Monte Carlo pricing: variance reduction, stable estimators, Greeks checks
-- Vol & calibration: vanilla surface building + robustness/stability diagnostics
-- Quant engineering: clean interfaces, tests, reproducibility, CI
+## Focus
+- Fixed-income pricing primitives, Greeks and scenario/risk checks.
+- Monte Carlo simulation, variance reduction and convergence diagnostics.
+- Counterparty credit risk: exposure simulation, survival curves and CVA-style calculations.
+- Credit risk validation: discriminatory power, calibration, stability and representativeness.
 
-## Public work (in progress)
-- `validation-series-quant/` — supporting code for my LinkedIn posts (background)
-- (WIP) Barrier option pricing (MC) + variance reduction + Greeks checks + benchmarks
+## Selected work
+- `cpp-pricing-primitives` - C++ pricing/risk primitives and numerical checks.
+- `xva-exposure-engine` - exposure simulation, survival curves and CVA-style calculations.
+- `desk-quant-toolkit` - Monte Carlo pricing, Greeks and benchmarked examples.
+- `model-validation-metrics` - credit risk validation metrics and tests.
+- `validation-series-quant` - code and notes supporting my LinkedIn posts.
 
-## Engineering standards
-- Reproducible runs (pinned deps), unit/regression tests, sanity checks
-- Benchmarks: accuracy vs runtime trade-offs documented in README
-- CI on push/PR
+## Links
 
 Links: [LinkedIn](https://www.linkedin.com/in/alexey-mengden)
